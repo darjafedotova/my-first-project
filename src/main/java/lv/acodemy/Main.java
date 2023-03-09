@@ -1,7 +1,7 @@
 package lv.acodemy;
 
 public class Main {
-    public static void main(String[] args) {
+    public static void master(String[] args) {
         System.out.println("Hi! My name is Darja");
     }
 }
